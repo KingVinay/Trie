@@ -15,3 +15,8 @@ Add with -> insert:
 // insert can add information.
 objName.insert("Search")
 ```
+
+``` Java
+// search can look for added information.
+objName.search("Search")
+```
