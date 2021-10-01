@@ -9,3 +9,9 @@ Create a Trie with:
 ``` Java
 Trie objName = new Trie();
 ```
+Add with -> insert:
+
+``` Java
+// insert can add information.
+objName.insert("Search")
+```
