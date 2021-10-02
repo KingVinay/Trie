@@ -29,4 +29,7 @@ objName.delete("Search");
 
 ``` Java
 objName.startsWith("Se");
-```
+
+``` Java
+objName.isEmpty(objName.root);
+
