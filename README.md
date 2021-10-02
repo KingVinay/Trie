@@ -26,3 +26,7 @@ Delete with -> delete
 ``` Java
 // delete can delete added information
 objName.delete("Search");
+
+``` Java
+objName.startsWith("Se");
+```
