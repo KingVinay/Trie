@@ -13,10 +13,16 @@ Add with -> insert:
 
 ``` Java
 // insert can add information.
-objName.insert("Search")
+objName.insert("Search");
 ```
+Search with -> search:
 
 ``` Java
 // search can look for added information.
-objName.search("Search")
+objName.search("Search");
 ```
+Delete with -> delete
+
+``` Java
+// delete can delete added information
+objName.delete("Search");
