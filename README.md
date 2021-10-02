@@ -27,9 +27,15 @@ Delete with -> delete
 // delete can delete added information
 objName.delete("Search");
 
-``` Java
-objName.startsWith("Se");
+Check Starting INFO with -> startsWith
 
 ``` Java
+//startswith checks whether information starts with particular string or not
+objName.startsWith("Se");
+
+Check Empty or not with -> isEmpty
+
+``` Java
+// isEmpty checks whether trie is empty or not
 objName.isEmpty(objName.root);
 
